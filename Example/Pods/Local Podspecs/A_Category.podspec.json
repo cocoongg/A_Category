@@ -1,0 +1,27 @@
+{
+  "name": "A_Category",
+  "version": "0.1.0",
+  "summary": "A short description of A_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cocoongg/A_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cocoongg": "cocoongg@163.com"
+  },
+  "source": {
+    "git": "https://github.com/cocoongg/A_Category.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "A_Category/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
